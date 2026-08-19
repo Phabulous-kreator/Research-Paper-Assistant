@@ -1,0 +1,9 @@
+streamlit==1.55.0
+sentence-transformers
+faiss-cpu
+pypdf
+transformers
+torch
+numpy
+python-dotenv
+openai>=1.0.0
